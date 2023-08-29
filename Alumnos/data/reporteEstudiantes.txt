@@ -1,0 +1,10 @@
+Reporte de estudiantes
+-----------------------
+----------------------
+Datos del alumno: 
+Nombre: daniel
+Apellido: 123
+Cedula: 123
+Semestre: 4
+Correo: dasdas
+Celular: 1231
